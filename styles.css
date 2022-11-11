@@ -1,0 +1,42 @@
+#c{
+    padding: 50px;
+}
+
+.balloon{
+    text-align: center;
+    padding: 10px;
+    height:75px;
+    width:80px;
+    border-radius: 50%;
+    margin: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.red{
+    background-color: red;
+    color: red;
+}
+
+.blue{
+    background-color: blue;
+    color:blue
+}
+.yellow{
+    background-color: yellow;
+    color:yellow
+}
+
+.grey{
+    background-color: grey;
+    color:grey
+}
+.green{
+    background-color: green;
+    color: green;
+}
+
+.pink{
+    background-color: pink;
+    color: pink;
+}
